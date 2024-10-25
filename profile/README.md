@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="banner.jpg" alt="Banner">
+  <img src="banner_sipsuru.jpg" alt="Banner">
 </p>
 
 ---
