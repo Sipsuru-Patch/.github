@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dragon.edu.lk/sipsuru">
-    <img src="logo.png" alt="Sipsuru Logo" width="200px">
+    <img src="logo.jpg" alt="Sipsuru Logo" width="200px">
   </a>
 </p>
 
