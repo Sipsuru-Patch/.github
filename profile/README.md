@@ -37,7 +37,7 @@
  - Sipsuru-Web to open courses from Sipsuru with Patched Sipsuru App (Allows you to run Official Apps alongside with Patched ones.)
    ![Sipsuru Web](https://github.com/user-attachments/assets/10c4ea0e-2beb-471c-9f54-ec8b4efffb12)
 
- - New Improved GUI
+ - New Improved GUI - Dark Mode, Background Images, Colorizations.
    ![GUI](https://github.com/user-attachments/assets/dbb71869-47f6-490a-88a9-7dc9d0db0ebd)
 
  - Screenshot & Record restrictions are removed.
