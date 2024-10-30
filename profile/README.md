@@ -34,13 +34,29 @@
 ![Not Legal?](https://github.com/user-attachments/assets/5565c4ef-0c43-416f-8b26-3052c4b9924c)
 
 ## Current Available Features
+ - Sipsuru-Web to open courses from Sipsuru with Patched Sipsuru App (Allows you to run Official Apps alongside with Patched ones.)
+   ![Sipsuru Web](https://github.com/user-attachments/assets/10c4ea0e-2beb-471c-9f54-ec8b4efffb12)
+
+ - New Improved GUI
+   ![GUI](https://github.com/user-attachments/assets/dbb71869-47f6-490a-88a9-7dc9d0db0ebd)
+
+ - Screenshot & Record restrictions are removed.
+ - User Watermark Removed (Animated Watermark removed - from Player)
+ - User Tracking Removed. (They don't know what you do.)
+ - Database Integration Removed. (They don't know what you do, which device you use, when you opened the course, etc.)
+ - Unlimited Watch Time with addon `Sipsuru Share Reveice`. (Instead of 10hrs watch time, now you can watch them unlimited till they remove the video from AWS servers, typically after 3 months from uploading.)
+ - No One Device Restriction. (One device restriction removed, now you can watch the same course in your mobile, tab, tv, desktop, laptop etc, (even at the same time))
+ - Addon: Share Receive (Can backup and share all courses just as a token or cloud links file, which are custom text files, that consumes about 1MB of your storage, they're valid till the video is removed from AWS servers typically after 3 months from uploading.)
+ - Addon: Poster Customizer (Can customize background images of Sipsuru Media Player. Can add any of your own image.)
+ - Addon: Media Downloadre (Can download courses from Sipsuru Media Player or backups (token or link files), to local computer as mp4 files, directly from AWS server, without any watermark.)
+ - Seamless Integration (The patched software and addons integrate with each other seamlesly to provide the best of the best.)
 ---
 
 > [!NOTE]
 > `Sipsuru`, `Yomboc`, `Siyapatha`, `Sipsuru Logo`, `Sipsuru YT Banner` all subject to registered tredmarks of `Sipsuru`, `Siyapatha` & `Yomboc`.
 
 > [!NOTE]
-> No legal actions against repository auther/owner is applicable since all the patched software (including all versions) are licensed under ***CC0-1.0 LICENSE*** which specially allows to do any modifications: [Verify Legality](https://creativecommons.org/publicdomain/zero/1.0/)
+> No legal actions against repository auther/owner (by cipyright owners or tredmark owners or any other party) is applicable since all the patched software (including all versions) are licensed under ***CC0-1.0 LICENSE*** which specially allows to do any modifications: [Verify Legality](https://creativecommons.org/publicdomain/zero/1.0/)
 > And the repository owber has all the evidences to prove that the software are licensed under CC0-1.0 License.
 
 > [!TIP]
