@@ -50,7 +50,7 @@
  - No One Device Restriction. (One device restriction removed, now you can watch the same course in your mobile, tab, tv, desktop, laptop etc, (even at the same time))
  - Addon: Share Receive (Can backup and share all courses just as a token or cloud links file, which are custom text files, that consumes about 1MB of your storage, they're valid till the video is removed from AWS servers typically after 3 months from uploading.)
  - Addon: Poster Customizer (Can customize background images of Sipsuru Media Player. Can add any of your own image.)
- - Addon: Media Downloadre (Can download courses from Sipsuru Media Player or backups (token or link files), to local computer as mp4 files, directly from AWS server, without any watermark.)
+ - Addon: Media Downloader (Can download courses from Sipsuru Media Player or backups (token or link files), to local computer as mp4 files, directly from AWS server, without any watermark.)
  - Seamless Integration (The patched software and addons integrate with each other seamlesly to provide the best of the best.)
 ---
 
@@ -58,7 +58,7 @@
 > `Sipsuru`, `Yomboc`, `Siyapatha`, `Sipsuru Logo`, `Sipsuru YT Banner` all subject to registered tredmarks of `Sipsuru`, `Siyapatha` & `Yomboc`.
 
 > [!NOTE]
-> No legal actions against repository auther/owner (by cipyright owners or tredmark owners or any other party) is applicable since all the patched software (including all versions) are licensed under ***CC0-1.0 LICENSE*** which specially allows to do any modifications: [Verify Legality](https://creativecommons.org/publicdomain/zero/1.0/)
+> No legal actions against repository auther/owner (by copyright owners or tredmark owners or any other party) is applicable since all the patched software (including all versions) are licensed under ***CC0-1.0 LICENSE*** which specially allows to do any modifications: [Verify Legality](https://creativecommons.org/publicdomain/zero/1.0/)
 > And the repository owber has all the evidences to prove that the software are licensed under CC0-1.0 License.
 
 > [!TIP]
